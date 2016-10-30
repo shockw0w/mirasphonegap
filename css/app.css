@@ -7777,5 +7777,23 @@ em {
   flex: 0 0 275px;
   width: 275px;
   border-right: 1px solid #ddd; }
-.tablet .mm-split-pane-content {
+.tablet .mm-split-pane-co#0099CCntent {
   display: block; }
+
+ .bar-side-menu {
+   background-color: #0099CC;
+ }
+ 
+ .bar-content {
+   background-color: #0099CC;
+ }
+ 
+ .button.button-positive {
+   border-color: #0099CC;
+   background-color: #0099CC;
+    color: #fff;
+ } 
+ 
+ .item-divider {
+   background-color: #fafafa;
+ }
