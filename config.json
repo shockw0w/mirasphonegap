@@ -8,7 +8,7 @@
     "languages": {"en": "English", "ru": "Русский"},
     "wsservice" : "moodle_mobile_app",
     "wsextservice" : "local_mobile",
-	"siteurl”: “http://portal.miras-astana.kz"
+	"siteurl": "http://portal.miras-astana.kz"
 	"demo_sites": ""
     "gcmpn": "694767596569",
     "customurlscheme": "moodlemobile"
