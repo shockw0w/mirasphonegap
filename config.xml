@@ -4,11 +4,11 @@
         xmlns:android = "http://schemas.android.com/apk/res/android"
         id        = "kz.miras-astana.portal"
         versionCode = "20200"
-        version   = "0.0.1">
-    <name>Miras Int School Astana</name>
+        version   = "3.3.2">
+    <name>Miras Int. School Astana</name>
 
     <description>
-        Miras Int School Astana official app
+        Moodle Mobile official app
     </description>
 
     <author href="http://moodle.com" email="mobile@moodle.com">
